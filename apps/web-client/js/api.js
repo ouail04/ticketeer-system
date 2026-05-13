@@ -1,4 +1,4 @@
-const API_BASE = 'ticketeer-system-production.up.railway.app';
+const API_BASE = 'https://ticketeer-system-production.up.railway.app';
 
 // ---------- Auth storage ----------
 const Auth = {
